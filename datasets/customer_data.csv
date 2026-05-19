@@ -1,0 +1,6 @@
+customer_name,age,branch,balance,loan_status,balance_category,risk_level
+John,25,Nairobi,45000,No Loan,Normal Balance,High Risk
+Mary,34,Mombasa,120000,Active,High Balance,Low Risk
+David,29,Nairobi,67000,Closed,Normal Balance,Medium Risk
+Sarah,42,Kisumu,98000,Active,High Balance,Low Risk
+Mike,31,Nakuru,52000,No Loan,Normal Balance,Medium Risk
