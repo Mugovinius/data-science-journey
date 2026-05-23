@@ -1,0 +1,9 @@
+transaction_id,customer_name,branch,transaction_amount,transaction_date,month,year,day_name,review_flag
+1001,John,Nairobi,45000.0,2026-05-15,5,2026,Friday,Normal
+1002,Mary,Mombasa,120000.0,2026-05-16,5,2026,Saturday,Investigate
+1003,David,Nairobi,86285.71428571429,2026-05-16,5,2026,Saturday,Normal
+1004,Sarah,Kisumu,98000.0,2026-05-17,5,2026,Sunday,Normal
+1005,Mike,Nakuru,52000.0,2026-05-18,5,2026,Monday,Normal
+1006,John,Nairobi,67000.0,2026-05-18,5,2026,Monday,Normal
+1007,Mary,Mombasa,150000.0,2026-05-19,5,2026,Tuesday,Investigate
+1008,David,Nairobi,72000.0,2026-05-20,5,2026,Wednesday,Normal
