@@ -1,0 +1,6 @@
+customer_id,customer_name,branch,customer_age,transaction_id,transaction_amount,transaction_fee,customer_segment
+1,John,Nairobi,25,1001,45000,900.0,Regular
+1,John,Nairobi,25,1003,67000,1340.0,Regular
+2,Mary,Mombasa,34,1002,120000,2400.0,Premium
+5,Mike,Nakuru,31,1005,52000,1040.0,Regular
+3,David,Nairobi,29,1004,98000,1960.0,Regular
